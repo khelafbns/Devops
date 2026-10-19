@@ -1,3 +1,3 @@
 const user : string = "Akaza"; 
 const password : string = "Olk";
-const conflict : string = "Conflic";
+const conflict : string = "Conflicfgdr";
