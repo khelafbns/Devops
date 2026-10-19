@@ -1,2 +1,4 @@
 const user : string = "Akaza"; 
 const password : string = "Olk";
+const conflict : string = "Conflict";
+const stach : string = "changement sans commit";
